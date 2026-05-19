@@ -1,0 +1,3 @@
+token: TU_TOKEN_DISCORD
+prefix: !
+mongo_uri: TU_MONGO_URI
